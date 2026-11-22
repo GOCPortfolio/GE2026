@@ -135,7 +135,7 @@ const CONFIG = {
   ],
 
   rsvp: {
-    endpoint: '',            // paste your Google Apps Script Web App URL here (see README)
+    endpoint: 'https://script.google.com/macros/s/AKfycbxSm82ZApN8GTyOte-MWVQM9lj0F3JAYaCACxx2RR4JkTx-m-qekFY2UowapGgsQn8A/exec',
     maxGuests: 10
   },
 
