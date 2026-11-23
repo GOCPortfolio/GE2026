@@ -69,7 +69,7 @@ const CONFIG = {
   contact: {
     callNumber: '08035357663',            // used for "Call to RSVP"
     whatsapp: '2348035357663',            // international format, no +
-    person: 'Flt. Lt. P. E. Obeya',
+    person: 'FLT. LT. P. E. OBEYA',
     display: '0803 535 7663'
   },
 
@@ -175,7 +175,8 @@ const CONFIG = {
     ['Content Creator', 'Rukky’s_shot'],
     ['Pre-wedding Make-up Artist', 'Benny’s Glam'],
     ['Pre-wedding Photography', 'Ark-Visualz Studios'],
-    ['Engagement Decoration', 'Kiki’s Cake and Events']
+    ['Engagement Decoration', 'Kiki’s Cake and Events'],
+    ['Hair vendor', 'Trandhairline']
   ],
   developer: ['Website Design', 'G.O.C | Brand Strategist × AI'],
 
