@@ -69,7 +69,7 @@ const CONFIG = {
   contact: {
     callNumber: '08035357663',            // used for "Call to RSVP"
     whatsapp: '2348035357663',            // international format, no +
-    person: 'FLT. LT. P. E. OBEYA',
+    person: 'Flight Lieutenant PE Obeya',
     display: '0803 535 7663'
   },
 
